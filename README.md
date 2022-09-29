@@ -38,6 +38,3 @@ Check out my favourite [![Lana Del Rey x Khalid](https://img.shields.io/badge/Sp
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jsasnu3juin7h2bziqhmswpqp4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be more than excited to chat with you!</b> :)</em>
-
-<a href="https://github.com/ToluClassics"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ToluClassics&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
-<a href="https://github.com/ToluClassics"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToluClassics&hide=ASP.NET&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
